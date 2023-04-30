@@ -1,4 +1,4 @@
 *.pyc
-project_env
+social-media-env
 db.sqlite3
 .env
